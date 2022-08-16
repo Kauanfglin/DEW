@@ -1,0 +1,101 @@
+#tudo
+{
+    width: 1200px;
+    text-align: center;
+    float: left;
+    clear: left;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+}
+header
+{
+    width: 575px;
+    height: 200px;
+    background-color: rgb(23, 23, 31);
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+    text-align: center;
+
+}
+nav
+{
+    width: 575px;
+    height: 200px;
+    background-color: red;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: right;
+
+}
+main
+{
+    width: 1180px;
+    height: 500px;
+    text-align: center;
+    background-color: green;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+}
+#um
+{
+    width: 350px;
+    height: 450px;
+    background-color: rgb(51, 82, 71);
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+} 
+#dois
+{
+    width: 350px;
+    height: 450px;
+    background-color: rgb(53, 201, 16);
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+} 
+#tres
+{
+    width: 350px;
+    height: 450px;
+    background-color: rgb(43, 78, 90);
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: right;
+
+
+} 
+
+#tres
+{
+    width: 350px;
+    height: 450px;
+    background-color: rgb(43, 78, 90);
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+}
+footer
+{
+    width: 1180px;
+    height: 200px;
+    background-color: blue;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+}
